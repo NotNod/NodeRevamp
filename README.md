@@ -1,4 +1,8 @@
-# Nodes-Better-Items
-A Minecraft Resource Pack for the NodeSMP. Not code but Curseforge is being cringe.
-I'm new to making resource packs and don't want to wait for Curseforge to approve my project after waiting a month.
-All the files will be under realeases. Just download it and copy it to your resourcepacks folder. There may be complicated release orders. For example, once I finish v1.3 all files ending in .5 (1.4.5, 1.5.5, 1.6.5) will not include the food/soda textures.
+# NodeRevamp
+A Revamped version of Nodes Better Items and NodePvp resource packs.
+All new updates will be under the new Node Revamp.
+There will be uneven updates as I'm lazy as fuck.
+No complicated bullshit anymore like Nodes Better Items, all one-off packs will be renamed as such.
+NV is for the regular 1.16+ Packs
+NVP is for the 1.8 Pvp Packs
+Now tiktok should stop bothering me to publicly releease it.
